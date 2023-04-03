@@ -1,1 +1,1 @@
-"Hello Very Crool World!"
+"Hello Crazy World!"
